@@ -1,4 +1,4 @@
-// Include the cluster module --juanxxx
+// Include the cluster module --juanxxx --new test
 
 var cluster = require('cluster');
 
